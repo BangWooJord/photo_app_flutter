@@ -1,6 +1,7 @@
 # photo_app
 
-A new Flutter application.
+Flutter app that acts as an image gallery. 
+Using unsplash API.
 
 ## Getting Started
 
